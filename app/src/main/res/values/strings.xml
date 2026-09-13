@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ViajaYa</string>
+
+    <!-- Login -->
+    <string name="login_titulo">Iniciar sesión</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="no_tienes_cuenta">¿No tienes una cuenta? Regístrate</string>
+
+    <!-- Registro -->
+    <string name="registro_titulo">Registro de agente de viajes</string>
+    <string name="hint_confirmar_password">Confirmar contraseña</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="ya_tienes_cuenta">¿Ya tienes una cuenta? Ingresa</string>
+
+    <!-- Catálogo -->
+    <string name="catalogo_titulo">Catálogo de destinos</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="confirmacion_titulo">Confirmación</string>
+    <string name="confirmacion_eliminar">¿Está seguro de eliminar este destino?</string>
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="registro_eliminado">Destino eliminado</string>
+    <string name="registro_guardado">Destino guardado con éxito</string>
+    <string name="registro_actualizado">Destino actualizado con éxito</string>
+
+    <!-- Formulario destino -->
+    <string name="nuevo_destino_titulo">Nuevo destino</string>
+    <string name="editar_destino_titulo">Editar destino</string>
+    <string name="hint_nombre_destino">Nombre del destino</string>
+    <string name="hint_precio">Precio del paquete (USD)</string>
+    <string name="hint_descripcion">Descripción del viaje (mínimo 20 caracteres)</string>
+    <string name="btn_seleccionar_imagen">Seleccionar imagen</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+
+    <!-- Errores -->
+    <string name="error_campos_vacios">Todos los campos son obligatorios</string>
+    <string name="error_precio_invalido">El precio debe ser un número mayor a 0</string>
+    <string name="error_descripcion_corta">La descripción debe tener al menos 20 caracteres</string>
+    <string name="error_sin_imagen">Debe seleccionar una imagen para el destino</string>
+    <string name="error_autenticacion">Ocurrió un error de autenticación</string>
+    <string name="error_password_corta">La contraseña debe tener al menos 6 caracteres</string>
+    <string name="error_passwords_no_coinciden">Las contraseñas no coinciden</string>
+</resources>
